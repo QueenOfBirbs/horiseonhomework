@@ -36,11 +36,14 @@ body {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
-    text-decoration: none;
 }
 
 a:visited a:hover a:active {
     color: #ffffff;
+}
+
+a {
+    text-decoration: none;
 }
 
 p {
