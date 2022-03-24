@@ -38,11 +38,8 @@ body {
     list-style-type: none;
 }
 
-a:visited a:hover a:active {
-    color: #ffffff;
-}
-
 a {
+    color: #ffffff;
     text-decoration: none;
 }
 
