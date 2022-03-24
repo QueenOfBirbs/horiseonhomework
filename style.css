@@ -38,7 +38,7 @@ body {
     list-style-type: none;
 }
 
-a:visited a:hover {
+a:visited a:active {
     color: #ffffff;
     text-decoration: none;
 }
