@@ -40,7 +40,7 @@ body {
 
 a:visited a:hover a:active {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: dotted;
 }
 
 p {
