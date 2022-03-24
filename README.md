@@ -15,4 +15,10 @@ I re-ordered all the elements so they matched the order of the website in both t
 
 I made a repository, published the page and made a detailed read me document.
 
-Hopefully I'm not missing anything!
+Hopefully I'm not missing anything! Here's the website link: https://queenofbirbs.github.io/horiseonhomework/. I apologize for the multiple screenshots, I wanted to make sure I got everything.
+
+In order of top of webpage to bottom:
+![Screenshot (136)](https://user-images.githubusercontent.com/99460203/160017616-39d38d39-1e81-4158-b507-9576fb99b091.png)
+![Screenshot (137)](https://user-images.githubusercontent.com/99460203/160017649-8d9a2a74-c551-4a7f-ae7d-7e447704f30a.png)
+![Screenshot (138)](https://user-images.githubusercontent.com/99460203/160017679-052b85ec-4a03-4f10-b200-bab35e40450d.png)
+![Screenshot (139)](https://user-images.githubusercontent.com/99460203/160017708-f67872f2-59d0-45e7-af46-5055b8993d46.png)
