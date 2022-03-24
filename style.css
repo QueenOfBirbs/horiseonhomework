@@ -38,7 +38,7 @@ body {
     list-style-type: none;
 }
 
-a {
+a:visited {
     color: #ffffff;
     text-decoration: none;
 }
